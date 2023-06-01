@@ -1,0 +1,94 @@
+.mainContainer{
+    border:solid black;
+    height:85vh;
+}
+.topNav{
+    border:solid green;
+    display:flex;    
+    justify-content: space-between;
+    height:60px;
+    background-color: #09507C;
+}
+.leftMenu{
+    border:solid red;
+    width:49px;
+}
+.navCenter{
+    color:white;
+    text-align:center;
+    padding-top:20px;
+    font-size:22px;
+}
+.rightDropdown{
+    border: solid blue;
+    width:41px;
+}
+.contentContainer{
+    border:solid green;
+    height:690px;
+}
+.className{
+    border:solid red;
+    height:49px;
+    font-size:38px;
+    color:rgb(83, 81, 81);
+    font-weight: bold;
+    margin-left:5px;
+    margin-top:25px;
+
+}
+.seContainer{
+    border: solid blue;
+    width:800px;
+    height:570px;
+    margin-left:30px;
+    margin-top:40px;
+    background-color: #09507C;
+}
+.subNav{
+    border: solid pink;
+    display:flex;
+    height:85px;
+    justify-content:space-between;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:10px;
+}
+.psLogo{
+    border:solid pink;
+    width:160px;
+}
+.logo{
+    width:160px;
+    height:83px;
+}
+.ih{
+    margin:10px;
+    width:210px;
+    background-color:#ff6a00;
+    border-radius:8px;
+    color:white;
+    font-size:23px;
+    border: solid #09507C;
+}
+.seBanner{
+    border:solid pink;
+    height:159px;
+    width:790px;
+}
+.banner{
+    height:150px;
+    width:750px;
+    margin-left:25px;
+}
+.subMenu{
+    border:solid white;
+    margin:60px;
+    padding:20px;
+    padding-left:70px;
+    justify-content: space-evenly;
+}
+.button{
+    height:50px;
+    width:130px;
+}
